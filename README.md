@@ -7,4 +7,4 @@ My lovely Restaurant Day-2 task
 You can check the initial wireframe for the restaurant landing page
 git
 
-![wireFrame](./Desktop - 1 (2).png)
+![wireFrame](/Desktop.png)
