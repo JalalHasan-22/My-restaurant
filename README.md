@@ -6,4 +6,4 @@ My lovely Restaurant Day-2 task
 
 You can check the initial wireframe for the restaurant landing page
 
-![wireFrame](/Desktop.png)
+![wireFrame](/Resturant.png)
